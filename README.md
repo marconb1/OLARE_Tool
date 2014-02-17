@@ -1,6 +1,6 @@
 OLARE: A tool for analyzing opinion lexicons
 
-Paper submitted for LREC2014 (http://lrec2014.lrec-conf.org/en/)
+Paper submitted for PROPOR014 (http://nilc.icmc.usp.br/propor2014/)
 
 Código produzido para analisar léxicos de opiniões.
 
@@ -21,7 +21,7 @@ A saída da ferramenta pode ser exportada no formato CSV.
 ---
 OLARE: A tool for analyzing opinion lexicons
 
-Paper submitted for LREC2014 (http://lrec2014.lrec-conf.org/en/)
+Paper submitted for PROPOR2014 (http://nilc.icmc.usp.br/propor2014/)
 
 Code produced for analyzing opinion lexicons.
 
